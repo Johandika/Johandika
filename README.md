@@ -39,5 +39,5 @@
 ### Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=johandika&hide_border=true&theme=radical&show_icons=true&bg_color=161b22&custom_title=GitHub%20Stats)
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=johandika&layout=compact&theme=radical&bg_color=161b22&hide_border=true&range=last_7_days)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johandika)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johandika&layout=compact&theme=radical&bg_color=161b22&hide_border=true)
